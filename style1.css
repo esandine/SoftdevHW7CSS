@@ -26,7 +26,6 @@ p{
 	color: gold;
 	background-color: navy;
 	letter-spacing: .1px;
-	height: 500px;
 	float: right;
 	text-transform: uppercase;
 }
@@ -36,4 +35,23 @@ h2{
 	letter-spacing: 5px;
 	text-transform: lowercase;
 	float: left;
+}
+.extreme{
+	border: 10px solid DarkOrchid
+}
+#head1{
+	min-width: 5000px;
+}
+.navzone{
+	text-indent: 50px;
+}
+#tehlulz{
+	font-family: "Courier New", Courier, monospace;
+}
+.content{
+	text-indent: 50px;
+}
+.prose{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
 }
