@@ -1,0 +1,35 @@
+h1{
+	color: springgreen;
+	background-color: seagreen;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
+h3{
+	color: darkgreen;
+	background-color: darkseagreen;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
+ul{
+	color: greenyellow;
+	background-color: forestgreen;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
+p{
+	color: lightseagreen;
+	background-color: lawngreen;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
+h2{
+	color: mediumseagreen;
+	background-color: limegreen;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-indent: 50px;
+}
