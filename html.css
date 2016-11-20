@@ -1,0 +1,39 @@
+.supercool{
+	text-shadow: 2px 2px;	
+	background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+	font-size = 200%;
+	
+}
+table{
+	border: 3px solid black;
+	border-collapse: collapse;
+	padding: 15px;
+	width: 100%;
+	height: 50 px;
+}
+th{
+    border: 3px solid black;
+    padding: 15px;
+}
+td{
+	text-align: center;   
+    border: 3px solid black;
+    padding: 15px;
+}
+.prose{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p{
+	text-indent: 50px;
+	background-color: white;
+}
+p:hover{
+	background-color: black;
+	color: white;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: atuo;
+}
